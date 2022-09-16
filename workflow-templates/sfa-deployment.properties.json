@@ -1,0 +1,13 @@
+{
+    "name": "SFA Deployment Workflow",
+    "description": "Build and deploy SFA microservices",
+    "iconName": "example-icon",
+    "categories": [
+        "Java"
+    ],
+    "filePatterns": [
+        "build.gradle$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
